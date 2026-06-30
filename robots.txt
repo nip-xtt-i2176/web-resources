@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nip-xtt-i2176.github.io/web-resources/sitemap.xml
